@@ -1,31 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="record_sp" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record SP
-https://spo4.akamaized.net/linear/hls/pa/event/8ssSlUQxSUimorxHsFz_SQ/stream/f9409d34-8aec-4fb4-934f-9b48310773c7:SCL2/master.m3u8?hdnts=exp=1771168219~acl=/*~hmac=c7ef9d2abfc81e28e7400018264a27aaa367ae299c3a71df9dae0900fadb6b8c&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a7154564-eed2-47bb-8160-9bc4a8379b2b%22%2Csu
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_rio" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Rio
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_minas" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Minas
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_guaiba" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Guaíba
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Bahia
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_brasilia" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Brasília
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_goias" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Goiás
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_belem" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Belém
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_manaus" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Manaus
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_santos_vale" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Santos e Vale
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_bahia_itabuna" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Bahia Itabuna
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_bauru" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Bauru
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_rio_preto" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Rio Preto
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_ribeirao_preto" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Ribeirão Preto
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_campos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Campos dos Goytacazes
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
