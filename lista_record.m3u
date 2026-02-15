@@ -14,7 +14,7 @@ https://spo4.akamaized.net/linear/hls/pa/event/8ssSlUQxSUimorxHsFz_SQ/stream/f94
 #EXTINF:-1 tvg-id="record_goias" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Goiás
 #AGUARDANDO_LINK
 #EXTINF:-1 tvg-id="record_belem" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Belém
-#AGUARDANDO_LINK
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_manaus" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Manaus
 #AGUARDANDO_LINK
 #EXTINF:-1 tvg-id="record_santos_vale" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Santos e Vale
