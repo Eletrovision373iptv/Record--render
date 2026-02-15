@@ -350,7 +350,7 @@ app.get('/', (req, res) => {
             ${canais.map((canal, index) => `
             <div class="card">
                 <div class="card-logo">
-                    <img src="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" alt="Record Logo">
+                    <img src="https://upload.wikimedia.org/wikipedia/pt/8/86/Record_logo.png" alt="Record Logo">
                 </div>
                 <div class="card-title">${canal.nome}</div>
                 <div class="online-count">
@@ -489,7 +489,7 @@ app.get('/baixar-m3u', (req, res) => {
     let m3u = '#EXTM3U\n';
     
     canais.forEach((canal, index) => {
-        m3u += `#EXTINF:-1 tvg-id="" tvg-name="${canal.nome}" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Record TV",${canal.nome}\n`;
+        m3u += `#EXTINF:-1 tvg-id="" tvg-name="${canal.nome}" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/86/Record_logo.png" group-title="Record TV",${canal.nome}\n`;
         m3u += `http://${host}/stream/${index}\n`;
     });
 
