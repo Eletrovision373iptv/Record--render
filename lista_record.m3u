@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="record_sp" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/86/Record_logo.png" group-title="RECORD AFILIADAS",Record SP
+https://spo4.akamaized.net/linear/hls/pa/event/8ssSlUQxSUimorxHsFz_SQ/stream/f9409d34-8aec-4fb4-934f-9b48310773c7:SCL2/master.m3u8?hdnts=exp=1771168219~acl=/*~hmac=c7ef9d2abfc81e28e7400018264a27aaa367ae299c3a71df9dae0900fadb6b8c&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a7154564-eed2-47bb-8160-9bc4a8379b2b%22%2Csu
+#EXTINF:-1 tvg-id="record_rio" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/86/Record_logo.png" group-title="RECORD AFILIADAS",Record Rio
+#AGUARDANDO_LINK
+#EXTINF:-1 tvg-id="record_minas" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/86/Record_logo.png" group-title="RECORD AFILIADAS",Record Minas
+#AGUARDANDO_LINK
+#EXTINF:-1 tvg-id="record_rs" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/86/Record_logo.png" group-title="RECORD AFILIADAS",Record RS
+#AGUARDANDO_LINK
+#EXTINF:-1 tvg-id="record_brasilia" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/86/Record_logo.png" group-title="RECORD AFILIADAS",Record Brasília
+#AGUARDANDO_LINK
+#EXTINF:-1 tvg-id="record_bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/86/Record_logo.png" group-title="RECORD AFILIADAS",Record Bahia
+#AGUARDANDO_LINK
+#EXTINF:-1 tvg-id="record_parana" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/86/Record_logo.png" group-title="RECORD AFILIADAS",Record Paraná
+#AGUARDANDO_LINK
+#EXTINF:-1 tvg-id="record_news" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/86/Record_logo.png" group-title="RECORD AFILIADAS",Record News
+#AGUARDANDO_LINK
