@@ -40,11 +40,11 @@ async function atualizarCanaisDoGitHub() {
                     nomeAtual = partes[partes.length - 1].trim();
                 }
             }
-            // Linha com a URL do M3U8
-            else if (linha.startsWith('http') && nomeAtual) {
+            // Linha com a URL do M3U8 ou marcador de aguardando
+            else if ((linha.startsWith('http') || linha.startsWith('#AGUARDANDO')) && nomeAtual) {
                 novosCanais.push({
                     nome: nomeAtual,
-                    m3u8: linha
+                    m3u8: linha.startsWith('#AGUARDANDO') ? '#' : linha
                 });
                 nomeAtual = '';
             }
