@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // URL do seu arquivo M3U da Record no GitHub (você vai criar amanhã)
-const M3U_URL = 'https://raw.githubusercontent.com/Eletrovision373iptv/minha-lista2/refs/heads/main/lista_record.m3u';
+const M3U_URL = 'https://raw.githubusercontent.com/Eletrovision373iptv/Record--render/refs/heads/main/lista_record.m3u';
 
 let canais = [];
 let usuariosOnline = {};
