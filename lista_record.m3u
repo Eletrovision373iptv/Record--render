@@ -16,7 +16,7 @@ https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_belem" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Belém
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_manaus" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Manaus
-https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
+https://video01.soultv.com.br/tvr/tvr/chunklist.m3u8
 #EXTINF:-1 tvg-id="record_santos_vale" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Santos e Vale
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="record_bahia_itabuna" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="RECORD AFILIADAS",Record Bahia Itabuna
